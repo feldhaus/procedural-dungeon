@@ -26,6 +26,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
+    "pixi.js": "^5.1.0",
     "seedrandom": "^3.0.1"
   }
 }

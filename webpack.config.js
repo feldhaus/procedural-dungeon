@@ -14,8 +14,8 @@ const COMMON = {
   output: {
     path: OUTPUT_PATH,
     publicPath: PUBLIC_PATH,
-    filename: 'bundle.js',
-    library: 'Bundle',
+    filename: 'dungeon.js',
+    library: 'Dungeon',
   },
   module: {
     rules: [
