@@ -20,13 +20,14 @@
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
-    "webpack": "^4.39.0",
+    "eslint": "^6.1.0",
+    "webpack": "^4.39.1",
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.7.2",
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "pixi.js": "^5.1.0",
+    "pixi.js": "^5.1.1",
     "seedrandom": "^3.0.1"
   }
 }
